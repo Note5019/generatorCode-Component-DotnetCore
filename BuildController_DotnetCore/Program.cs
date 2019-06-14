@@ -11,12 +11,12 @@ namespace BuildController_DotnetCore
         static void Main(string[] args)
         {
             Console.Write(@"
-1. Interface
-2. ...Repository
-3. ...Resource
-4. ...Controller
-5. add line add MapperProfile + StartUp
-Enter <Capital word>: ");
+            1. Interface
+            2. ...Repository
+            3. ...Resource
+            4. ...Controller
+            5. add line add MapperProfile + StartUp
+    Enter <Capital word>: ");
             string cap = Console.ReadLine();
             //Console.Write("Enter <non-Cap>: ");
             //string noncap = Console.ReadLine();
@@ -95,7 +95,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace HR_API.Controllers
 <*
     [Route(""api/[controller]"")]
-        [ApiController]
+    [ApiController]
     public class {0}Controller : ControllerBase
         <*
             private readonly I{0}Repository _{1}Repo;
