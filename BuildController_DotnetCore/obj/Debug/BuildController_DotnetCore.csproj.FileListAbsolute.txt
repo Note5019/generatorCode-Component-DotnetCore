@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\BuildController_DotnetCore\BuildController_DotnetCore\bin\Debug\BuildController_DotnetCore.exe.config
+C:\Users\User\source\repos\BuildController_DotnetCore\BuildController_DotnetCore\bin\Debug\BuildController_DotnetCore.exe
+C:\Users\User\source\repos\BuildController_DotnetCore\BuildController_DotnetCore\bin\Debug\BuildController_DotnetCore.pdb
+C:\Users\User\source\repos\BuildController_DotnetCore\BuildController_DotnetCore\obj\Debug\BuildController_DotnetCore.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BuildController_DotnetCore\BuildController_DotnetCore\obj\Debug\BuildController_DotnetCore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BuildController_DotnetCore\BuildController_DotnetCore\obj\Debug\BuildController_DotnetCore.exe
+C:\Users\User\source\repos\BuildController_DotnetCore\BuildController_DotnetCore\obj\Debug\BuildController_DotnetCore.pdb
